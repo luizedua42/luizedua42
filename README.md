@@ -24,8 +24,16 @@
 <img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png"hspace="125"vspace="50" >
 <img src="https://game.42sp.org.br/static/assets/achievements/phase_threen.png" vspace="50">
 
+  
+  
+  
+  
 ![Alt text](assets/Screenshot%20from%202023-05-24%2014-41-45.png)
 
 # ENTRANDO EM ÓRBITA (LV.1)
 
+  
+  
+  
+  
 <a href="https://github.com/luizedua42/42libft" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/libftm.png" vspace = "100" ></a>
