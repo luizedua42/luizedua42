@@ -37,3 +37,7 @@
   
   
 <a href="https://github.com/luizedua42/42libft" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/libftm.png" vspace = "100" ></a>
+  
+  
+[![Snake Game](https://github.com/luizedua42/luizedua42/actions/workflows/main.yml/badge.svg)](https://github.com/luizedua42/luizedua42/actions/workflows/main.yml)
+  
