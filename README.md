@@ -37,6 +37,7 @@
   
   
 <a href="https://github.com/luizedua42/42libft" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/libftm.png" vspace = "100" ></a>
+<a href="https://github.com/luizedua42/42get_next_line" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/gnln.png" vspace = "100" ></a>
   
   
 ![Snake animation](https://github.com/luizedua42/luizedua42/blob/output/github-contribution-grid-snake.svg)
