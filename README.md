@@ -15,8 +15,15 @@
 >___For further informations you can contact me trough my socials.___
 
 #
+## SKILLS & STATS 
+<div align=left>
 
-## SKILLS
+![luizedua42's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizedua42&theme=jolly&hide_border=false)
+
+![luizedua42's Stats](https://github-readme-stats.vercel.app/api?username=luizedua42&theme=jolly&show_icons=true&hide_border=false&count_private=true)
+
+![luizedua42's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizedua42&theme=jolly&show_icons=true&hide_border=false&layout=compact)
+</div>
 
 #
 # CURSUS TRAIL
@@ -43,8 +50,4 @@
 #
 
   
-![luizedua42's Stats](https://github-readme-stats.vercel.app/api?username=luizedua42&theme=jolly&show_icons=true&hide_border=false&count_private=true)
 
-![luizedua42's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizedua42&theme=jolly&hide_border=false)
-
-![luizedua42's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizedua42&theme=jolly&show_icons=true&hide_border=false&layout=compact)
