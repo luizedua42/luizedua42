@@ -23,6 +23,10 @@
 ![luizedua42's Stats](https://github-readme-stats.vercel.app/api?username=luizedua42&theme=jolly&show_icons=true&hide_border=false&count_private=true)
 
 ![luizedua42's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizedua42&theme=jolly&show_icons=true&hide_border=false&layout=compact)
+
+> Tools and Languages:
+
+<img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg title="C" height=50><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg title="bash" height=50><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg title="VSCode" height=50><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg title="Ubuntu" height=50><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg title="Vim" height=50>
 </div>
 
 #
