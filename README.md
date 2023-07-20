@@ -5,10 +5,10 @@
 
 <div align = center>
 
-## **Hello folks!!**
+## **Hey There!**
 </div>
 
->___First of all, welcome to my github page. I'm Luiz Eduardo, I'm 21yo and a rookie cadet @42SP___
+>___Welcome to my github page. I'm Luiz Eduardo, I'm 21yo and a rookie cadet @42SP___
 
 >___I'll be uploading my cursus progress troughout the cursus here. Currently on libft.___
 
@@ -16,10 +16,10 @@
 
 #
 ## SKILLS & STATS 
-<div align=left>
+<div align=center>
 
-![luizedua42's Stats](https://github-readme-stats.vercel.app/api?username=luizedua42&theme=jolly&show_icons=true&hide_border=false&count_private=true) ![luizedua42's Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizedua42&theme=jolly&hide_border=false)
-![luizedua42's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=luizedua42&theme=jolly&show_icons=true&hide_border=false&layout=compact)
+![luizedua42's Stats](https://github-readme-stats.vercel.app/api?username=luizedua42&theme=jolly&show_icons=true&hide_border=true&count_private=false)
+
 <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg title="C" height=90 width=100  hspace=14><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg title="bash" height=90 width=100  hspace=14><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg title="VSCode" height=90 width=100  hspace=14><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg title="Ubuntu" height=90 width=100  hspace=14><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg title="Vim" height=90 width=100  hspace=14>
 </div>
 
