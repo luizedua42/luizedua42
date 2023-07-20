@@ -1,8 +1,7 @@
 
 <div align = center>
 
-# ___@luizedua___
-
+## ___@luizedua___ 
 <div align = center>
 
 ## **Hey There!**
@@ -13,6 +12,8 @@
 >___I'll be uploading my cursus progress troughout the cursus here. Currently on libft.___
 
 >___For further informations you can contact me trough my socials.___
+
+<a href="https://linktr.ee/luizedua42" target="_blank"><img  src=assets/icons8-linktree-48.png height=25  ></a>
 
 #
 ## SKILLS & STATS 
