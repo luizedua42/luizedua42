@@ -40,7 +40,7 @@
 
 <a href="https://github.com/luizedua42/42libft" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace = "25" ></a> <a href="https://github.com/luizedua42/42get_next_line" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace = "25" ></a> <a href="https://github.com/luizedua42/42_printf" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" hspace = "25" ></a> 
 
-<a href="https://github.com/luizedua42/42_born2beroot" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace = "25" ></a><a href="https://github.com/luizedua42/42_fract-ol" target="_blank"><img src= assets/oie_20183727Hh40GPZ4.png hspace= "25"/></a><a href="https://github.com/luizedua42/42_pipex" target="_blank"><img src=assets/oie_20184043EDclZ499.png hspace = "25" ></a>
+<a href="https://github.com/luizedua42/42_born2beroot" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace = "25" ></a><a href="https://github.com/luizedua42/42_fract-ol" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace = "25" ></a><a href="https://github.com/luizedua42/42_pipex" target="_blank"><img src=assets/oie_20184043EDclZ499.png hspace = "25" ></a>
 
 # AMPLIANDO HORIZONTES (LV.2)
 
