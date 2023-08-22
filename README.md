@@ -1,6 +1,7 @@
 
 <div align = center>
 
+![Alt text](assets/typing.gif)
 ## ___@luizedua___ 
 <div align = center>
 
