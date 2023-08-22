@@ -38,9 +38,9 @@ LinkTree
 
 # ENTRANDO EM ÓRBITA (LV.1) (ok)
 
-<a href="https://github.com/luizedua42/42libft" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace = "25" ></a> <a href="https://github.com/luizedua42/42get_next_line" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace = "25" ></a> <a href="https://github.com/luizedua42/42_printf" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" hspace = "25" ></a> 
+<a href="https://github.com/luizedua42/42libft" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace = "10" ></a> <a href="https://github.com/luizedua42/42get_next_line" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace = "125" ></a> <a href="https://github.com/luizedua42/42_printf" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" hspace = "25" ></a> 
 
-<a href="https://github.com/luizedua42/42_born2beroot" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace = "25" ></a><a href="https://github.com/luizedua42/42_fract-ol" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace = "25" ></a><a href="https://github.com/luizedua42/42_pipex" target="_blank"><img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" hspace = "25" ></a>
+<a href="https://github.com/luizedua42/42_born2beroot" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace = "25" ></a><a href="https://github.com/luizedua42/42_fract-ol" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace = "125" ></a><a href="https://github.com/luizedua42/42_pipex" target="_blank"><img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" hspace = "25" ></a>
 
 # AMPLIANDO HORIZONTES (LV.2) (in progress)
 
