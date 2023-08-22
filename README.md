@@ -28,18 +28,18 @@ LinkTree
 
 # CURSUS TRAIL
 
-<img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" hspace="65" vspace="50">
-<img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" hspace="120" vspace="50" >
-<img src="https://game.42sp.org.br/static/assets/achievements/phase_threen.png" hspace="65" vspace="50">
+<img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" hspace="0" vspace="50">
+<img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" hspace="135" vspace="50" >
+<img src="https://game.42sp.org.br/static/assets/achievements/phase_threen.png" hspace="0" vspace="50">
 
   
   ![Progress Bar](assets/Screenshot%202023-08-22%20at%2013-19-35%2042%20Game.png)
 
 # ENTRANDO EM ÓRBITA (LV.1) (ok)
 
-<a href="https://github.com/luizedua42/42libft" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace = "65" ></a> <a href="https://github.com/luizedua42/42get_next_line" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace = "115" ></a> <a href="https://github.com/luizedua42/42_printf" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" hspace = "65" ></a> 
+<a href="https://github.com/luizedua42/42libft" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace = "0" ></a> <a href="https://github.com/luizedua42/42get_next_line" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace = "130" ></a> <a href="https://github.com/luizedua42/42_printf" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" hspace = "0" ></a> 
 
-<a href="https://github.com/luizedua42/42_born2beroot" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace = "70" ></a><a href="https://github.com/luizedua42/42_fract-ol" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace = "115" ></a><a href="https://github.com/luizedua42/42_pipex" target="_blank"><img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" hspace = "70" ></a>
+<a href="https://github.com/luizedua42/42_born2beroot" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace = "0" ></a><a href="https://github.com/luizedua42/42_fract-ol" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace = "135" ></a><a href="https://github.com/luizedua42/42_pipex" target="_blank"><img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" hspace = "0" ></a>
 
 # AMPLIANDO HORIZONTES (LV.2) (in progress)
 
