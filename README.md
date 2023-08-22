@@ -34,8 +34,7 @@ LinkTree
 
   
   
-  
-  ![Alt text](assets/Screenshot%20from%202023-07-20%2011-51-06.png)
+  ![Progress Bar](assets/Screenshot%202023-08-22%20at%2013-19-35%2042%20Game.png)
 
 # ENTRANDO EM ÓRBITA (LV.1) (ok)
 
