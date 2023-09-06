@@ -44,7 +44,7 @@ LinkTree
 
 # AMPLIANDO HORIZONTES (LV.2) (in progress)
 
-<a href="https://github.com/luizedua42/42_push_swap" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/push_swapn.png" hspace = "25" >
+<a href="https://github.com/luizedua42/42_push_swap" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/push_swapn.png" hspace = "25" ><a href="https://github.com/luizedua42/42_minishell" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/minishelln.png" hspace = "25" >
 
 #
 
