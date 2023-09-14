@@ -14,7 +14,7 @@
 
 >___For further informations you can contact me trough my socials.___
 
-<a href="https://linktr.ee/luizedua42" target="_blank"><img  src=assets/icons8-linktree-48.png height=25  ></a>
+<a href="https://linktr.ee/luizedua42" target="_blank"><img  src=assets/icons8-linktree-48.png  title="LinkTree" height=25  ></a>
 
 LinkTree
 #
@@ -29,9 +29,9 @@ LinkTree
 
 # CURSUS TRAIL
 
-<img src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" hspace="0" vspace="50">
-<img src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" hspace="135" vspace="50" >
-<img src="https://game.42sp.org.br/static/assets/achievements/phase_threen.png" hspace="0" vspace="50">
+<img title="Phase One" src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" hspace="0" vspace="50">
+<img title="Phase Two"src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" hspace="135" vspace="50" >
+<img title="Phase Three"src="https://game.42sp.org.br/static/assets/achievements/phase_threen.png" hspace="0" vspace="50">
 
   
   ![Progress Bar](assets/Screenshot%202023-08-22%20at%2013-19-35%2042%20Game.png)
