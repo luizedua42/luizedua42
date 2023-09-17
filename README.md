@@ -38,13 +38,18 @@ LinkTree
 
 # ENTRANDO EM ÓRBITA (LV.1) (ok)
 
-<a href="https://github.com/luizedua42/42libft" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/libftm.png" hspace = "0" ></a> <a href="https://github.com/luizedua42/42get_next_line" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" hspace = "130" ></a> <a href="https://github.com/luizedua42/42_printf" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" hspace = "0" ></a> 
+<a href="https://github.com/luizedua42/42libft" target="_blank"><img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" title ="libft" hspace = "0" ></a> 
+<a href="https://github.com/luizedua42/42get_next_line" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" title = "get_next_line" hspace = "130" ></a> 
+<a href="https://github.com/luizedua42/42_printf" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" title = "ft_printf" hspace = "0" ></a> 
 
-<a href="https://github.com/luizedua42/42_born2beroot" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" hspace = "0" ></a><a href="https://github.com/luizedua42/42_fract-ol" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" hspace = "135" ></a><a href="https://github.com/luizedua42/42_pipex" target="_blank"><img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" hspace = "0" ></a>
+<a href="https://github.com/luizedua42/42_born2beroot" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" title = "born2beroot" hspace = "0" ></a>
+<a href="https://github.com/luizedua42/42_fract-ol" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" title = "fract-ol" hspace = "135" ></a>
+<a href="https://github.com/luizedua42/42_pipex" target="_blank"><img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" title = "pipex" hspace = "0" ></a>
 
 # AMPLIANDO HORIZONTES (LV.2) (in progress)
 
-<a href="https://github.com/luizedua42/42_push_swap" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/push_swapn.png" hspace = "25" ><a href="https://github.com/luizedua42/42_minishell" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/minishelln.png" hspace = "25" >
+<a href="https://github.com/luizedua42/42_push_swap" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" title = "push_swap" hspace = "25" >
+<a href="https://github.com/luizedua42/42_minishell" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/minishelln.png" title = "minishell" hspace = "25" >
 
 #
 
