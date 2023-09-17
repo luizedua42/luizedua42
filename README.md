@@ -33,8 +33,7 @@ LinkTree
 <img title="Phase Two"src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" hspace="135" vspace="50" >
 <img title="Phase Three"src="https://game.42sp.org.br/static/assets/achievements/phase_threen.png" hspace="0" vspace="50">
 
-  
-  ![Progress Bar](assets/Screenshot%202023-08-22%20at%2013-19-35%2042%20Game.png)
+  ![Progress Bar](assets/Screenshot%202023-09-17%20at%2017-33-46%2042%20Game.png)
 
 # ENTRANDO EM ÓRBITA (LV.1) (ok)
 
