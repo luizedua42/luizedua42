@@ -1,8 +1,8 @@
 
 <div align = center>
 
-![Alt text](assets/typing.gif)
 ## ___@luizedua___ 
+![Matrix code / Neo wearing glasses](assets/neo.gif)
 <div align = center>
 
 ## **Hey There!**
