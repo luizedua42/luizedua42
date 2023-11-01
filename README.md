@@ -46,7 +46,7 @@ LinkTree
 <a href="https://github.com/luizedua42/42_pipex" target="_blank"><img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" title = "pipex" hspace = "0" ></a>
 
 # AMPLIANDO HORIZONTES (LV.2) (in progress)
-<a href="https://github.com/luizedua42/42_push_swap" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" title = "push_swap" hspace = "25" >
+<a href="https://github.com/luizedua42/42_push_swap" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" title = "pushswap" hspace = "25" >
 <a href="https://github.com/luizedua42/42_minishell" target="_blank"><img  src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" title = "minishell" hspace = "25" >
 #
 
