@@ -63,14 +63,14 @@
 
 
 <a href="https://github.com/luizedua42/42_netpractice" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" title = "net_practice" hspace = "0" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" title = "net_practice" hspace = "75" ></a>
 <a href="https://github.com/luizedua42/42_cub3d" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/cub3dn.png" title = "cub3d" hspace = "135" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/cub3dn.png" title = "cub3d" hspace = "75" ></a>
 
 # EXPLORANDO O ESPAÇO (LV.3)
 
 <div align=center>
 
-![Alt text](<assets/Coming Soon.png>)
+![Coming Soon](<assets/Coming Soon.png>)
 #
 </div>
