@@ -32,7 +32,7 @@
 # CURSUS TRAIL
 
 <img title="Phase One" src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" hspace="0" vspace="33">
-<img title="Phase Two"src="https://game.42sp.org.br/static/assets/achievements/phase_twon.png" hspace="103" vspace="33" >
+<img title="Phase Two"src="https://game.42sp.org.br/static/assets/achievements/phase_twom.png" hspace="103" vspace="33" >
 <img title="Phase Three"src="https://game.42sp.org.br/static/assets/achievements/phase_threen.png" hspace="0" vspace="33">
 
 ![Progress Bar](<assets/Game Progress Bar.png>)
@@ -71,7 +71,9 @@
 <a href="https://github.com/luizedua42/42_CPP" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/cppn.png" title = "cpp" hspace = "0" > </a>
 <img  src="https://game.42sp.org.br/static/assets/achievements/inceptionn.png" title = "inception" hspace = "135" >
-
 <img  src="https://game.42sp.org.br/static/assets/achievements/ft_ircn.png" title = "ft_irc" hspace = "0" >
-<img  src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png" title = "ft_transcendence" hspace = "75" >
+
+#
+<img  src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png" title = "ft_transcendence" hspace = "135" >
+
 #
