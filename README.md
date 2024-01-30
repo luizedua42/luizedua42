@@ -65,12 +65,13 @@
 <a href="https://github.com/luizedua42/42_netpractice" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" title = "net_practice" hspace = "75" ></a>
 <a href="https://github.com/luizedua42/42_cub3d" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/cub3dn.png" title = "cub3d" hspace = "75" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png" title = "cub3d" hspace = "75" ></a>
 
 # EXPLORANDO O ESPAÇO (LV.3)
+<a href="https://github.com/luizedua42/42_CPP" target="_blank">
+<img  src="https://game.42sp.org.br/static/assets/achievements/cppn.png" title = "cpp" hspace = "0" > </a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/inceptionn.png" title = "inception" hspace = "135" >
 
-<div align=center>
-
-![Coming Soon](<assets/Coming Soon.png>)
+<img  src="https://game.42sp.org.br/static/assets/achievements/ft_ircn.png" title = "ft_irc" hspace = "0" >
+<img  src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png" title = "ft_transcendence" hspace = "75" >
 #
-</div>
