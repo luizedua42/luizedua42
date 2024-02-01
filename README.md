@@ -40,40 +40,40 @@
 # ENTRANDO EM ÓRBITA (LV.1)
 
 <a href="https://github.com/luizedua42/42libft" target="_blank">
-<img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" title ="libft" hspace = "0" ></a> 
+<img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" title ="libft" height=125 hspace = "0" ></a> 
 <a href="https://github.com/luizedua42/42get_next_line" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" title = "get_next_line" hspace = "135" ></a> 
+<img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" height=125 title = "get_next_line" hspace = "127" ></a> 
 <a href="https://github.com/luizedua42/42_printf" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png" title = "ft_printf" hspace = "0" ></a> 
+<img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png"  height=125 title = "ft_printf" hspace = "0" ></a> 
 
 <a href="https://github.com/luizedua42/42_born2beroot" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" title = "born2beroot" hspace = "0" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" height=125 title = "born2beroot" hspace = "0" ></a>
 <a href="https://github.com/luizedua42/42_fract-ol" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" title = "fract-ol" hspace = "135" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" height=125 title = "fract-ol" hspace = "127" ></a>
 <a href="https://github.com/luizedua42/42_pipex" target="_blank">
-<img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png" title = "pipex" hspace = "1" ></a>
+<img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png"  height=125 title = "pipex" hspace = "1" ></a>
 
 # AMPLIANDO HORIZONTES (LV.2) (in progress)
 <a href="https://github.com/luizedua42/42_push_swap" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/push_swape.png" title = "pushswap" hspace = "0" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/push_swape.png"  height=125 title = "pushswap" hspace = "0" ></a>
 <a href="https://github.com/luizedua42/42_minishell" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/minishellm.png" title = "minishell" hspace = "135" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"  height=125 title = "minishell" hspace = "127" ></a>
 <a href="https://github.com/luizedua42/42_philosophers" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png" title = "philosophers" hspace = "0" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png"  height=125 title = "philosophers" hspace = "0" ></a>
 
 
 <a href="https://github.com/luizedua42/42_netpractice" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png" title = "net_practice" hspace = "75" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png"  height=125 title = "net_practice" hspace = "75" ></a>
 <a href="https://github.com/luizedua42/42_cub3d" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png" title = "cub3d" hspace = "75" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png"  height=125 title = "cub3d" hspace = "75" ></a>
 
 # EXPLORANDO O ESPAÇO (LV.3)
 <a href="https://github.com/luizedua42/42_CPP" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/cppn.png" title = "cpp" hspace = "0" ></a>
-<img  src="https://game.42sp.org.br/static/assets/achievements/inceptionn.png" title = "inception" hspace = "135" >
-<img  src="https://game.42sp.org.br/static/assets/achievements/ft_ircn.png" title = "ft_irc" hspace = "0" >
+<img  src="https://game.42sp.org.br/static/assets/achievements/cppn.png"  height=125 title = "cpp" hspace = "0" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/inceptionn.png"  height=125 title = "inception" hspace = "127" >
+<img  src="https://game.42sp.org.br/static/assets/achievements/ft_ircn.png"  height=125 title = "ft_irc" hspace = "0" >
 
 #
-<img  src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png" title = "ft_transcendence" hspace = "135" >
+<img  src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png"  height=125 title = "ft_transcendence" hspace = "127" >
 
 #
