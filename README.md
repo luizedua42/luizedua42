@@ -49,7 +49,7 @@
 <a href="https://github.com/luizedua42/42_born2beroot" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" height=125 title = "born2beroot" hspace = "0" ></a>
 <a href="https://github.com/luizedua42/42_fract-ol" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" height=125 title = "fract-ol" hspace = "127" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" height=125 title = "fract-ol" hspace = "125" ></a>
 <a href="https://github.com/luizedua42/42_pipex" target="_blank">
 <img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png"  height=125 title = "pipex" hspace = "1" ></a>
 
@@ -57,7 +57,7 @@
 <a href="https://github.com/luizedua42/42_push_swap" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/push_swape.png"  height=125 title = "pushswap" hspace = "0" ></a>
 <a href="https://github.com/luizedua42/42_minishell" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"  height=125 title = "minishell" hspace = "127" ></a>
+<img  src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"  height=125 title = "minishell" hspace = "125" ></a>
 <a href="https://github.com/luizedua42/42_philosophers" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png"  height=125 title = "philosophers" hspace = "0" ></a>
 <br/>
@@ -69,10 +69,10 @@
 # EXPLORANDO O ESPAÇO (LV.3)
 <a href="https://github.com/luizedua42/42_CPP" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/cppn.png"  height=125 title = "cpp" hspace = "0" ></a>
-<img  src="https://game.42sp.org.br/static/assets/achievements/inceptionn.png"  height=125 title = "inception" hspace = "127" >
+<img  src="https://game.42sp.org.br/static/assets/achievements/inceptionn.png"  height=125 title = "inception" hspace = "125" >
 <img  src="https://game.42sp.org.br/static/assets/achievements/ft_ircn.png"  height=125 title = "ft_irc" hspace = "0" >
 
 #
-<img  src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png"  height=125 title = "ft_transcendence" hspace = "127" >
+<img  src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png"  height=125 title = "ft_transcendence" hspace = "125" >
 
 #
