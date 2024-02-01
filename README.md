@@ -42,10 +42,10 @@
 <a href="https://github.com/luizedua42/42libft" target="_blank">
 <img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" title ="libft" height=125 hspace = "0" ></a> 
 <a href="https://github.com/luizedua42/42get_next_line" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" height=125 title = "get_next_line" hspace = "127" ></a> 
+<img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" height=125 title = "get_next_line" hspace = "125" ></a> 
 <a href="https://github.com/luizedua42/42_printf" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png"  height=125 title = "ft_printf" hspace = "0" ></a> 
-
+<br/>
 <a href="https://github.com/luizedua42/42_born2beroot" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" height=125 title = "born2beroot" hspace = "0" ></a>
 <a href="https://github.com/luizedua42/42_fract-ol" target="_blank">
@@ -60,8 +60,7 @@
 <img  src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"  height=125 title = "minishell" hspace = "127" ></a>
 <a href="https://github.com/luizedua42/42_philosophers" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png"  height=125 title = "philosophers" hspace = "0" ></a>
-
-
+<br/>
 <a href="https://github.com/luizedua42/42_netpractice" target="_blank">
 <img  src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png"  height=125 title = "net_practice" hspace = "75" ></a>
 <a href="https://github.com/luizedua42/42_cub3d" target="_blank">
