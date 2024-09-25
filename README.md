@@ -30,50 +30,80 @@
 <img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-original.svg title="C" height=90 width=100  hspace=14><img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg title='cplusplus' height=90 width=100 hspace=14><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bash/bash-original.svg title="bash" height=90 width=100  hspace=14><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg title="VSCode" height=90 width=100  hspace=14><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ubuntu/ubuntu-plain.svg title="Ubuntu" height=90 width=100  hspace=14><img src=https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vim/vim-original.svg title="Vim" height=90 width=100  hspace=14>
 </div>
 
-# CURSUS TRAIL
+# 42 Common Core
 
-<img title="Phase One" src="https://game.42sp.org.br/static/assets/achievements/phase_onem.png" hspace="0" vspace="33">
-<img title="Phase Two"src="https://game.42sp.org.br/static/assets/achievements/phase_twom.png" hspace="103" vspace="33" >
-<img title="Phase Three"src="https://game.42sp.org.br/static/assets/achievements/phase_threen.png" hspace="0" vspace="33">
-
-![Progress Bar](<assets/Game Progress Bar.png>)
-
-# ENTRANDO EM ÓRBITA (LV.1)
-
+# Milestone 0
 <a href="https://github.com/luizedua42/42libft" target="_blank">
-<img src="https://game.42sp.org.br/static/assets/achievements/libftm.png" title ="libft" height=125 hspace = "0" ></a> 
+<img src="https://github.com/gawbsouza/42-pdh/blob/main/dark/libft_dark.svg" title ="libft">
+</a> 
+
+# Milestone 1
+
 <a href="https://github.com/luizedua42/42get_next_line" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/get_next_linem.png" height=125 title = "get_next_line" hspace = "125" ></a> 
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/gnl_dark.svg" title = "get_next_line">
+</a> 
+
 <a href="https://github.com/luizedua42/42_printf" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/ft_printfe.png"  height=125 title = "ft_printf" hspace = "0" ></a> 
-<br/>
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/ft_printf_dark.svg"  title = "ft_printf">
+</a>
+
 <a href="https://github.com/luizedua42/42_born2beroot" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/born2berootm.png" height=125 title = "born2beroot" hspace = "0" ></a>
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/born2beroot_dark.svg" title = "born2beroot">
+</a>
+
+# Milestone 2
+
 <a href="https://github.com/luizedua42/42_fract-ol" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/fract-olm.png" height=125 title = "fract-ol" hspace = "125" ></a>
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/fract-ol_dark.svg" title = "fract-ol">
+</a>
+
 <a href="https://github.com/luizedua42/42_pipex" target="_blank">
-<img src="https://game.42sp.org.br/static/assets/achievements/pipexe.png"  height=125 title = "pipex" hspace = "1" ></a>
+<img src="https://github.com/gawbsouza/42-pdh/blob/main/dark/pipex_dark.svg"  title = "pipex">
+</a>
 
-# AMPLIANDO HORIZONTES (LV.2) (in progress)
 <a href="https://github.com/luizedua42/42_push_swap" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/push_swape.png"  height=125 title = "pushswap" hspace = "0" ></a>
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/push_swap_dark.svg" title = "pushswap">
+</a>
+
+# Milestone 3
+
 <a href="https://github.com/luizedua42/42_minishell" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/minishellm.png"  height=125 title = "minishell" hspace = "125" ></a>
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/minishell_dark.svg" title = "minishell">
+</a>
+
 <a href="https://github.com/luizedua42/42_philosophers" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/philosopherse.png"  height=125 title = "philosophers" hspace = "0" ></a>
-<br/>
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/philosophers_dark.svg" title = "philosophers">
+</a>
+
+# Milestone 4
+
 <a href="https://github.com/luizedua42/42_netpractice" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/netpracticee.png"  height=125 title = "net_practice" hspace = "75" ></a>
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/netpractice_dark.svg" title = "net_practice">
+</a>
+
 <a href="https://github.com/luizedua42/42_cub3d" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/cub3dm.png"  height=125 title = "cub3d" hspace = "75" ></a>
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/cub3d_dark.svg" title = "cub3d">
+</a>
 
-# EXPLORANDO O ESPAÇO (LV.3)
+
+# Milestone 4/5
+
 <a href="https://github.com/luizedua42/42_CPP" target="_blank">
-<img  src="https://game.42sp.org.br/static/assets/achievements/cppn.png"  height=125 title = "cpp" hspace = "0" ></a>
-<img  src="https://game.42sp.org.br/static/assets/achievements/inceptionn.png"  height=125 title = "inception" hspace = "125" >
-<img  src="https://game.42sp.org.br/static/assets/achievements/ft_ircn.png"  height=125 title = "ft_irc" hspace = "0" >
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/cpp_dark.svg"  title = "cpp" >
+</a>
 
-#
-<img  src="https://game.42sp.org.br/static/assets/achievements/ft_transcendencen.png"  height=125 title = "ft_transcendence" hspace = "125" >
+# Milestone 5
 
-#
+<a href="https://github.com/luizedua42/42_Inception" target="_blank">
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/inception_dark.svg"  title = "inception" hspace = "125" >
+</a>
+
+<a href="https://github.com/luizedua42/42_ft_irc" target="_blank">
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/ft_irc_dark.svg"  title = "ft_irc" >
+</a>
+
+# Milestone 6
+
+<a href="https://github.com/andreyvdl/42-Transcendence" target="_blank">
+<img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/ft_transcendence_dark.svg"  title = "ft_transcendence">
+</a>
