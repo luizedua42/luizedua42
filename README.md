@@ -31,6 +31,12 @@
 
 # 42 Common Core
 
+<a href="https://github.com/gawbsouza/42-pdh" target="_blank">
+<img src="https://github.com/gawbsouza/42-pdh/blob/main/badge/42pdh_badge.svg" title = "credits">
+</a>
+
+shout out to gawbsouza 
+
 # Milestone 0
 <a href="https://github.com/luizedua42/42libft" target="_blank">
 <img src="https://github.com/gawbsouza/42-pdh/blob/main/dark/libft_dark.svg" title ="libft">
@@ -96,6 +102,7 @@
 <a href="https://github.com/luizedua42/42_Inception" target="_blank">
 <img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/inception_dark.svg"  title = "inception" hspace = "125" >
 </a>
+
 
 <a href="https://github.com/luizedua42/42_ft_irc" target="_blank">
 <img  src="https://github.com/gawbsouza/42-pdh/blob/main/dark/ft_irc_dark.svg"  title = "ft_irc" >
